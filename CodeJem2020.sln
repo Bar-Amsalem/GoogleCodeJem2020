@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeJem2020Qualify", "CodeJem2020Qualify\CodeJem2020Qualify.csproj", "{B9B7637B-4668-4E7F-97DB-1DEA5D7EE8F7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeJem2020Qualify.Tests", "CodeJem2020QualifyTests\CodeJem2020Qualify.Tests.csproj", "{FC90E726-4FD1-44BC-BAF2-A356F36B49A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9B7637B-4668-4E7F-97DB-1DEA5D7EE8F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9B7637B-4668-4E7F-97DB-1DEA5D7EE8F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9B7637B-4668-4E7F-97DB-1DEA5D7EE8F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9B7637B-4668-4E7F-97DB-1DEA5D7EE8F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC90E726-4FD1-44BC-BAF2-A356F36B49A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC90E726-4FD1-44BC-BAF2-A356F36B49A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC90E726-4FD1-44BC-BAF2-A356F36B49A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC90E726-4FD1-44BC-BAF2-A356F36B49A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {774217B1-4A7B-47F8-A2DE-AFDE0F4189EF}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,18 @@
+﻿In the command propmt write the next command:
+
+
+python InteractiveRunner.py  python LocalTestingTool.py  <testLevel> -- <proj prudct (exe)>
+
+testLevel:
+	0 = 10
+	1 = 20
+	2 = 100
+
+
+
+Exemple: 
+
+.\CodeJem2020\CodeJem2020Qualify\Q4\>> python InteractiveRunner.py  python LocalTestingTool.py  2 -- ..\bin\Release\netcoreapp3.1\CodeJem2020Qualify.exe
+
+Judge return code: 0
+Solution return code: 0
